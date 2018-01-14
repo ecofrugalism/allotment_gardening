@@ -1,21 +1,25 @@
 Storing tubers (potato, Jerusalem artichoke, ...)
 
-Optimal storage of horseradish: 0° celsius at 90-100% humidity, stores for up to 12 months
-Optimal storage for potato: 7° celsius at 85-100% humidity, stores for up to 8 months
-Optimal storage of parsnip: 0° celsius at 90-100% humidity, stores for up to 6 months
-Optimal storage for Jerusalem artichoke: 0° celsius at 90-95% humidity, stores for up to 5 months
-Optimal storage of beetroot: 0° celsius at 90-100% humidity, stores for up to 5 months
-Optimal storage of carrot: 0° celsius at 90-100% humidity, stores for up to 5 months
-Optimal storage of salsify: 0° celsius at 90-95% humidity, stores for up to 4 months -so useless-
+Optimal storage of horseradish: 0Â° celsius at 90-100% humidity, stores for up to 12 months
+Optimal storage for potato: 7Â° celsius at 85-100% humidity, stores for up to 8 months
+Optimal storage of parsnip: 0Â° celsius at 90-100% humidity, stores for up to 6 months
+Optimal storage for Jerusalem artichoke: 0Â° celsius at 90-95% humidity, stores for up to 5 months
+Optimal storage of beetroot: 0Â° celsius at 90-100% humidity, stores for up to 5 months
+Optimal storage of carrot: 0Â° celsius at 90-100% humidity, stores for up to 5 months
+Optimal storage of salsify: 0Â° celsius at 90-95% humidity, stores for up to 4 months -so useless-
 
 Storing bulbs (onions, shallots, garlic, ...)
 
-Optimal storage for onion: 0° celsius at 65-75% humidity, stores for up to 8 months
-Optimal storage for shallot: 0° celsius at 90-100% humidity, stores for just 5 to 14 days -so useless-
-Optimal storage for garlic: 0° celsius at 65-75% humidity, stores for 7 months
+Optimal storage for onion: 0Â° celsius at 65-75% humidity, stores for up to 8 months
+Optimal storage for shallot: 0Â° celsius at 90-100% humidity, stores for just 5 to 14 days -so useless-
+Optimal storage for garlic: 0Â° celsius at 65-75% humidity, stores for 7 months
 
 For seeds:
-Seed requirements vary per species and sometimes even per cultivar, but basically, you'll want most seeds to have a moisture content of 4 to 8%, and have it stored at 0 to 5° celsius. Some seeds (like onion, lettuce) are best stored at even lower temperatures (under -18°C). Make sure you have them dried ("equilibrated") before storing them at such low temperatures. Also take note that some seeds require stratification -thus being subjected to a temperature between 1 and 3° celsius for 1 to 3 months- to allow them to germinate.
+Seed requirements vary per species and sometimes even per cultivar, but basically, you'll want most seeds to have a moisture
+content of 4 to 8%, and have it stored at 0 to 5Â° celsius. Some seeds (like onion, lettuce) are best stored at even lower 
+temperatures (under -18Â°C). Make sure you have them dried ("equilibrated") before storing them at such low temperatures. Also 
+take note that some seeds require stratification -thus being subjected to a temperature between 1 and 3Â° celsius for 1 to 3
+months- to allow them to germinate.
 Storage time is between 1 and 5 years, depending on the crop. 
 
 More info at:
@@ -28,13 +32,27 @@ http://www.newrootsurbanfarmers.com/blog/2014/9/9/the-science-of-vegetable-stora
 http://www.yara.co.uk/crop-nutrition/crops/potato/key-facts/agronomic-principles/
 
 In practice:
-The optimal storage conditions are just to be taken as a guideline, since you'll generally not be able to reproduce these conditions fully (you could reproduce the conditions fully by using a refrigerator or freezer but that's not worth the energy costs, at least not for tubers/bulbs -it's a different matter for seeds, since these take up much less space and you genrally have a bit of unused space in your refrigerator anyhow - ). 
+The optimal storage conditions are just to be taken as a guideline, since you'll generally not be able to reproduce these
+conditions fully (you could reproduce the conditions fully by using a refrigerator or freezer but that's not worth the energy
+costs, at least not for tubers/bulbs -it's a different matter for seeds, since these take up much less space and you generally
+have a bit of unused space in your refrigerator anyhow - ).
 What can you do to reproduce these conditions ?
 Basically, you may have following options at your disposal:
-you (unheated) garden shed, your greenhouse/cold frame (unheated but generally frost-free), your house -attic or cellar- (partially heated), your refrigerator (actively cooled).
+you (unheated) garden shed, your greenhouse/cold frame (unheated but generally frost-free), your house -attic or cellar-
+(partially heated), your refrigerator (actively cooled).
 
 For tubers and bulbs:
-Store in a garden shed, cold frame or cellar in a plastic bag with holes in it and which has been sprayed with water untill it's time to plant them out (once the environment/soil reaches a temperature of 10°C or above = germination temperature for the tubers/bulbs).You may want to place a thermometer in your cold frame/cellar/shed and check it now and then to ensure temperature doesn't exceed 10°C, and when it does, plant it out immediately. Also make sure you have the tubers/bulbs cleaned/dried before placing them in the plastic bag.
+Store in a garden shed, cold frame or cellar in a plastic bag with holes in it and which has been sprayed with water untill it's
+time to plant them out (once the environment/soil reaches a temperature of 10Â°C or above = germination temperature for the
+tubers/bulbs).You may want to place a thermometer in your cold frame/cellar/shed and check it now and then to ensure temperature
+doesn't exceed 10Â°C, and when it does, plant it out immediately. Also make sure you have the tubers/bulbs cleaned/dried before
+placing them in the plastic bag.
 
 For seeds:
-First, reduce the moisture level by placing the seeds in a sealed mason jar with a dry material (such as salt, sand,  ...) under it. The seeds are hereby best placed on a disc with holes in it above the dry material. Another possibility is just to put them in a dry paper bag or paperboard shoebox and keep them there untill they're dry (4-8% moisture level). Then, place it in your cellar (if this has a temperature of 1-3°C for most months -autumn, winter, spring-) or refrigerator. Make sure you keep it in a sealed container or sealed plastic bag so that the moisture level isn't increased -cellars and refrigerators typically have high moisture levels-. If you keep it in your cellar, place a thermometer in it and make sure you plant out the seeds once the environment/cellar has a temperature of about 4°C.
+First, reduce the moisture level by placing the seeds in a sealed mason jar with a dry material (such as salt, sand,  ...) under
+it. The seeds are hereby best placed on a disc with holes in it above the dry material. Another possibility is just to put them
+in a dry paper bag or paperboard shoebox and keep them there untill they're dry (4-8% moisture level). Then, place it in your
+cellar (if this has a temperature of 1-3Â°C for most months -autumn, winter, spring-) or refrigerator. Make sure you keep it in a
+sealed container or sealed plastic bag so that the moisture level isn't increased -cellars and refrigerators typically have high
+moisture levels-. If you keep it in your cellar, place a thermometer in it and make sure you plant out the seeds once the
+environment/cellar has a temperature of about 4Â°C.
