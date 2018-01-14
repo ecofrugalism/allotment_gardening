@@ -11,8 +11,8 @@ Optimal storage of salsify: 0° celsius at 90-95% humidity, stores for up to 4 m
 Storing bulbs (onions, shallots, garlic, ...)
 
 Optimal storage for onion: 0° celsius at 65-75% humidity, stores for up to 8 months
-Optimal storage for shallot: 0° celsius at 90-100% humidity, stores for just 5 to 14 days -so useless-
 Optimal storage for garlic: 0° celsius at 65-75% humidity, stores for 7 months
+Optimal storage for shallot: 0° celsius at 90-100% humidity, stores for just 5 to 14 days -so useless-
 
 For seeds:
 Seed requirements vary per species and sometimes even per cultivar, but basically, you'll want most seeds to have a moisture
