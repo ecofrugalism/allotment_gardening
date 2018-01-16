@@ -1,23 +1,51 @@
-In this document, information is bundled on some specific crops which require a special procedure for the gathering of the seeds, sowing the seeds. It also contains some info on other propogation methods.
+In this document, information is bundled on some specific crops which require a special procedure for the gathering of the
+seeds, sowing the seeds. It also contains some info on other propogation methods.
 
 Getting crops to generate seed at all:
-Some crops will generate seed on their own (self-fertile), yet many others require at least one other crop of the same genus in its vicinity to form seed (they're self-incompatible; see https://en.wikipedia.org/wiki/Self-incompatibility and thus require cross-pollination). There are even crops that which come in male and female variants (these are called dioecious plants). This is rare though (most plants being monoecious; see https://simple.wikipedia.org/wiki/Flowering_plant_sexuality ). Popular crops that are dioecious are listed at the allotment_gardening.ods file. So for the latter to generate seed, you need to attain both the male and female plant, whereas for the monoecious plants you can be certain they'll generate seed as long if you have at least 2 plants near one another.
+Some crops will generate seed on their own (self-fertile), yet many others require at least one other crop of the same genus in
+its vicinity to form seed (they're self-incompatible; see https://en.wikipedia.org/wiki/Self-incompatibility and thus require
+cross-pollination). There are even crops that which come in male and female variants (these are called dioecious plants). This
+is rare though (most plants being monoecious; see https://simple.wikipedia.org/wiki/Flowering_plant_sexuality ). Popular crops
+that are dioecious are listed at the allotment_gardening.ods file. So for the latter to generate seed, you need to attain both
+the male and female plant, whereas for the monoecious plants you can be certain they'll generate seed as long if you have at
+least 2 plants near one another.
 
 Gathering seed:
-For most crops, gathering seed is easy: flowers appear on the crop in the same season -if you haven't been harvesting leaves, ... from it-. For some crops however you need to wait untill the second year -biennial plants-. What crops are biennial are mentioned in the allotment_gardening.ods file. Subjecting them to cold weather early in their growth may have them generate seeds earlier (in the first year). This process is called "bolting". Once the flowers have appeared and have been pollinated, the seeds are formed. They will then change color to yellow, brown or black (once this has been done, they're ripe and can be harvested). In most cases, you'll want to pull a plastic bag over the (still green) seeds so when they are ripe, they fall into the bag rather than on the ground.
+For most crops, gathering seed is easy: flowers appear on the crop in the same season -if you haven't been harvesting leaves,
+... from it-. For some crops however you need to wait untill the second year -biennial plants-. What crops are biennial are
+mentioned in the allotment_gardening.ods file. Subjecting them to cold weather early in their growth may have them generate
+seeds earlier (in the first year). This process is called "bolting". Once the flowers have appeared and have been pollinated,
+the seeds are formed. They will then change color to yellow, brown or black (once this has been done, they're ripe and can be
+harvested). In most cases, you'll want to pull a plastic bag over the (still green) seeds so when they are ripe, they fall into
+the bag rather than on the ground.
 
-Some crops (such as winter squash, tomato, dog rose, ...) form seeds within their fruit. It is difficult to determine whether the seed inside the fruit is already ripe but generally, this is when the fruit itself is "over-ripe" and so has become soft and inedible. With winter squash, you can just use water to rinse off the pulp. With tomato seeds simply rinsing with water doesn't work as the seeds have a gelatinous sac which acts as a host for diseases, preventing germination. To harvest the seeds, you best use the fermentation method. With this method, you have to take out the seeds (without pulp) and put it in a jar with a lid. Drill holes in the lid and put distilled water into it. Wait for at least two days, then collect the seeds using a sieve and wash the seeds with water (see https://www.gardenbetty.com/fermenting-and-saving-tomato-seeds/ ).
+Some crops (such as winter squash, tomato, dog rose, ...) form seeds within their fruit. It is difficult to determine whether
+the seed inside the fruit is already ripe but generally, this is when the fruit itself is "over-ripe" and so has become soft and
+inedible. With winter squash, you can just use water to rinse off the pulp. With tomato seeds simply rinsing with water doesn't
+work as the seeds have a gelatinous sac which acts as a host for diseases, preventing germination. To harvest the seeds, you
+best use the fermentation method. With this method, you have to take out the seeds (without pulp) and put it in a jar with a
+lid. Drill holes in the lid and put distilled water into it. Wait for at least two days, then collect the seeds using a sieve
+and wash the seeds with water (see https://www.gardenbetty.com/fermenting-and-saving-tomato-seeds/ ).
 
 Sowing of seed: pre-treatments
-Some seed (mainly from temperate climate crops) require stratification before sowing. You don't need to know Which seeds require it and which don't as you best cool all seeds anyway (to keep the seed in the best condition).
+Some seed (mainly from temperate climate crops) require stratification before sowing. You don't need to know Which seeds require
+it and which don't as you best cool all seeds anyway (to keep the seed in the best condition).
 
 Larger seed (beans, peas, ...) are best soaked in a pot with water (for up to 3 days) before sowing.
 
 Other propogation methods:
-Propogation through seed always creates offspring that differs from the parents. With some crops, the difference is significant, and you'll hence want to propogate it asexually (see https://en.wikipedia.org/wiki/Vegetative_reproduction ). This includes taking stem cuttings, budding, divisioning, ...
+Propogation through seed always creates offspring that differs from the parents. With some crops, the difference is significant,
+and you'll hence want to propogate it asexually (see https://en.wikipedia.org/wiki/Vegetative_reproduction ). This includes
+taking stem cuttings, budding, divisioning, ...
 
-With root vegetables (potato, garlic, horse radish, ...) you can propogate the plant asexually by storing the root for several months and planting it out again the next year. Potato, onion, garlic, ... makes several tubers or bulbs from a single tuber/bulb, so divisioning is practical here (as you can eat most tubers/bulbs and keep just one).
+With root vegetables (potato, garlic, horse radish, ...) you can propogate the plant asexually by storing the root for several
+months and planting it out again the next year. Potato, onion, garlic, ... makes several tubers or bulbs from a single
+tuber/bulb, so divisioning is practical here (as you can eat most tubers/bulbs and keep just one).
 
-Root crops such as carrots can also be divisioned (between the head and the root itself) so that's a useful approach within a growing season (as you can eat the bottom and replant the top).
+Root crops such as carrots can also be divisioned (between the head and the root itself) so that's a useful approach within a
+growing season (as you can eat the bottom and replant the top).
 
-With fruit trees, you can use budding to move over a bud unto a rootstock. The rootstock is the stem with roots from another tree belonging to the same genus. The benefit of using rootstocks is that you can keep the tree compact (as it won't grow that high). This is important when you wish to integrate it into an allotment. Stooling or side-shoots can be used to propogate the rootstock itself.
+With fruit trees, you can use budding to move over a bud unto a rootstock. The rootstock is the stem with roots from another
+tree belonging to the same genus. The benefit of using rootstocks is that you can keep the tree compact (as it won't grow that
+high). This is important when you wish to integrate it into an allotment. Stooling or side-shoots can be used to propogate the
+rootstock itself.
