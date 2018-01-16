@@ -1,1 +1,17 @@
-A gardening calen
+A gardening calendar allows you to schedule your gardening activities. It is especially useful to remind yourself when to sow and
+harvest each crop, harvest seeds, prune trees, trim hedges, ...
+
+To make it:
+- Attain a blank calendar for next year (i.e. from http://calendar-12.com/printable_calendar/ )
+- Next, get the moon phase data for next year (i.e. from https://www.calendar-12.com/moon_phases/ ) and indicate the new and full
+moons on your calendar. Color the days between the new and full moons green (this indicates when you best sow leaf crops; waxing
+moon) and color the days between the full and new moons yellow (this indicates when you best sow root crops; waning moon)
+- Indicate on a blank space on each month of your calendar what crops you need to sow and what you need to harvest
+- Indicate all other gardening jobs (pruning, trimming jobs, ... ) on the blank space of each month too
+- Then, get the solstitiums data (summer & winter solstitiums) for next year and indicate these on your calendar. You can get the
+data from https://en.wikipedia.org/wiki/Solstice .The summer solstitium marks the day with the most sunlight and thus the beginning
+of summer. The winter solstitium marks the day with the least sunlight and thus the beginning of winter. Note that the wikipedia
+data is for the northern hemisphere; in the southern hemisphere the date given for the summer solstitium is actually the winter
+solstitium and vice versa. You may also want to mark the vernal and autumnal equinox data (get these from 
+https://en.wikipedia.org/wiki/Equinox ). These are halfway the 2 solstitiums and mark the begiining of spring and autumn (in
+temperate climate zones). 
