@@ -17,4 +17,4 @@ Pixy
 Torinel
 
 Propogation:
-see 
+see  special_needs_and_techiques.txt
