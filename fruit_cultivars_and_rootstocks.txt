@@ -1,19 +1,19 @@
 Apple:
-B9
-M9
-M26
+B9: 2,1 m high. Spacing: 2,5 x 3,5 m (hardier than M9)
+M9: 2,1 m high. Spacing: 2,5 x 3,5 m
+M26: 2,7m high. Spacing: 3 x 4,5 m
 
 Cherries
-Gisela 5
+Gisela 5: 2,5-3m high. Suitable for bush, pyramid and fan espaliering.
 
 Pears:
-Quince A
-Quince C
-Quince MC
-Adams
+Quince A: 3-4,5m high. Suitable for fan, cordon, bush, central leader, half standard espaliering.
+Quince C: 2,5-3m high. Suitable for cordon, bush, central leader espaliering.
+Quince MC: ?
+Adams: ?
 
 Plums and gages:
-Pixy
+Pixy: 
 Torinel
 
 Propogation:
