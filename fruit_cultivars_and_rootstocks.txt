@@ -1,20 +1,122 @@
-Apple:
+Apple (Malus domestica) rootstocks:
 B9: 2,1 m high. Spacing: 2,5 x 3,5 m (hardier than M9)
 M9: 2,1 m high. Spacing: 2,5 x 3,5 m
 M26: 2,7m high. Spacing: 3 x 4,5 m
 
-Cherries
-Gisela 5: 2,5-3m high. Suitable for bush, pyramid and fan espaliering.
+Cultivars for buds:
+Cevaal
+Pinova
+Saturn
 
-Pears:
+Harvest time: september-october
+Apples keep untill november-december
+
+Pear (Pyrus communis) rootstocks::
 Quince A: 3-4,5m high. Suitable for fan, cordon, bush, central leader, half standard espaliering.
 Quince C: 2,5-3m high. Suitable for cordon, bush, central leader espaliering.
 Quince MC: ?
 Adams: ?
 
-Plums and gages:
-Pixy: 
-Torinel
+Cultivars for buds:
+Beurre Hardy
+Conference
+
+Apricot (Prunus armeniaca) rootstocks:
+Torinel: 2,4-3m high.
+
+Cultivars for buds:
+Doucouer
+Flavorcot
+Larquen
+
+Plum (Prunus domestica) rootstocks:
+Pixy: 3-4m high
+Torinel: 2,4-3m high.
+
+Cultivars for buds:
+czar
+Damson Merryweather
+Valor
+Victoria
+Reine Claude Dorée
+Mirabelle de Nancy
+
+Cherry (Prunus avium) rootstocks:
+Gisela 5: 2,5-3m high. Suitable for bush, pyramid and fan espaliering.
+
+Cultivars for buds:
+Stark Gold
+Stella
+Summer Sun
+
+Harvest time: july-august
+
+Peach rootstocks:
+Montclaire: 3m high.
+
+Cultivars for buds:
+Dixi Red
+Avalon Pride
+
+Harvest time: august
+
+Nectarine rootstocks:
+Montclaire: 3m high.
+
+Cultivars for buds:
+Fantasia
+
+Harvest time: august
+
+Fruit not requiring a rootstock
+-------------------------------
+
+Blackcurrant cultivars:
+Ben Connan
+Ben Sarek
+Big Ben
+
+Whitecurrant cultivars:
+Blanka
+
+Redcurrant cultivars:
+Rovada
+
+Harvest all in july.
+
+Blueberry cultivars:
+Earliblue
+Herbert
+Bluecrop
+
+Harvest in august.
+
+Gooseberry cultivars:
+Hinnonmaki Yellow
+Hinnonmaki Red
+Invicta
+Pax
+
+Harvest in june/july
+
+Raspberry cultivars:
+Summer raspberries: Malling Minerva
+Autumn raspberries: Joan J
+
+Harvest in june-august
+
+Strawberry cultivars:
+Aromel
+Buddy
+
+Harvest in june.
+
+Grape cultivars:
+Boskoop Glory (dessert grape)
+Schiava Grossa (wine grape)
+
+See also:
+https://www.rhs.org.uk/advice/profile?PID=359
 
 Propogation:
-see  special_needs_and_techiques.txt
+see special_needs_and_techiques.txt
